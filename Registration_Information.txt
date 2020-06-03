@@ -1,0 +1,3 @@
+Satyam	24	male	1234567891	sp@gmail.com
+Arjun	23	male	1234561234	ar@gmail.com
+s	23	male	1234567890	a@gmail.com
